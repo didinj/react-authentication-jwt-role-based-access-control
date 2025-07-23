@@ -1,6 +1,6 @@
 # React Authentication with JWT and Role-Based Access Control
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/688066ada00aac4929293995/react-authentication-with-jwt-and-rolebased-access-control).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
